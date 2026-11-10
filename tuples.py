@@ -37,6 +37,7 @@ print(a)
 print(b)
 print(c)
 print(d)
+print(type(a))
 
 #unpacking using * operator it takes remaining all the values in the tuple
 busy = ( 10, 20, 30, 40)
