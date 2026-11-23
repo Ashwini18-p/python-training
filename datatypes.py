@@ -183,3 +183,11 @@ print(type(name))
 # range represents a sequence of integers
 numbers = range(1,6)
 print (list(numbers))
+ 
+ #numbers
+ #numbers
+ #numbers
+ #numbers
+ #numbers
+ #numbers
+ #numbers

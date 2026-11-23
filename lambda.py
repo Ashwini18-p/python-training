@@ -21,3 +21,6 @@ print(text())
 
 #lambda expression is a expression written after a : in a function
 add = lambda a ,b : a + b  # this is lambda expression
+#lambda with conditional expression
+add = lambda a, b : a if a > b else b
+print(add(20, 40))
